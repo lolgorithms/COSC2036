@@ -1,4 +1,4 @@
-# COSC2036 - Computer Game Design 1 at Algoma University
+# COSC2036 - Computer Game Design 1 - Algoma University
 
 This was a fun course! I got to design and build my very own platform game, "**Qwerty Cat**".
 
